@@ -206,5 +206,3 @@ See the [Development guide](/docs/development-guide.md) to learn how to run and 
   showing Stackdriver Incident Response Management
 
 ---
-
-This is not an official Google project.
